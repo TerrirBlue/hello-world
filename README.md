@@ -1,2 +1,4 @@
 # hello-world
-My first repo
+My first repository
+My first commit as well.
+I am enjoying learning and going through this guide.
